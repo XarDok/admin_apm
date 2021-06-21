@@ -4,7 +4,7 @@
 Cбрасываем  пароль на учетке пользователь должен придумать новый а так же сменить название учетки
 Меняем пароль в рут на yg4$He5DZm 
 Настраиваем Iptables:
-Запускаем скрипт [vpnlock.txt]: 
+Запускаем скрипт [vpnlock.txt](https://github.com/XarDok/admin_apm/files/6683810/vpnlock.txt): 
  chmod +x vpnlock.sh
  ./vpnlock.sh
 далее вводим команды:
